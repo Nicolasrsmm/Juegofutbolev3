@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|c:\\users\\matia\\desktop\\juego_futbol\\game_f\\assets\\scripts\\pegarpelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pegarpelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\assets\\scripts\\controladoraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controladoraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\assets\\scripts\\arco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\assets\\scripts\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\assets\\scripts\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\assets\\scripts\\cambioescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34F2B5D-66B3-E6A8-2A82-128FDCBC0081}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambioescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "consultar.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\consultar.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\consultar.cs",
+              "ToolTip": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\consultar.cs",
+              "RelativeToolTip": "Assets\\scripts\\consultar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:11:47.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Data.cs",
+              "ToolTip": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\Data.cs",
+              "RelativeToolTip": "Assets\\scripts\\Data.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:29:19.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pegarPelota.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\pegarPelota.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\pegarPelota.cs",
+              "ToolTip": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\pegarPelota.cs",
+              "RelativeToolTip": "Assets\\scripts\\pegarPelota.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAwwHwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:52:26.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "controladorAudio.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\controladorAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\controladorAudio.cs",
+              "ToolTip": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\controladorAudio.cs",
+              "RelativeToolTip": "Assets\\scripts\\controladorAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:30:53.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cambioEscena.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\cambioEscena.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\cambioEscena.cs",
+              "ToolTip": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\cambioEscena.cs",
+              "RelativeToolTip": "Assets\\scripts\\cambioEscena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:24:35.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arco.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\arco.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\arco.cs",
+              "ToolTip": "C:\\Users\\matia\\Desktop\\juego_futbol\\Game_F\\Assets\\scripts\\arco.cs",
+              "RelativeToolTip": "Assets\\scripts\\arco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:55:36.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

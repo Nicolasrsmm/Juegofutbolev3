@@ -1,0 +1,516 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1749866010916432, "dur":1069, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866010917507, "dur":37, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1749866010917553, "dur":11, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1749866010917565, "dur":393, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1749866010917987, "dur":394, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866010918381, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011298384, "dur":529, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011298914, "dur":82, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011298996, "dur":11, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299007, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299018, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299022, "dur":15, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299038, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299040, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299050, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299053, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299062, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299065, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299085, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299088, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299099, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299102, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299113, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299116, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299124, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299127, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299137, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299140, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299148, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299151, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299161, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299164, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299172, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299175, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299185, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299188, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299196, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299199, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299210, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299243, "dur":4, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011299344, "dur":1590, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1749866010918199, "dur":234, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866010918433, "dur":3653, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866010922090, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1749866010922241, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866010923667, "dur":1598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1749866010925292, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1749866010925370, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866010925374, "dur":1542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1749866010926932, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866010927001, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866010927033, "dur":19330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866010946412, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866010946438, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866010946443, "dur":6371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866010952842, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866010952879, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866010952882, "dur":7467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866010960391, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866010960425, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866010960428, "dur":9115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866010969568, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866010969593, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866010969596, "dur":52204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866011021829, "dur":118761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866011140595, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749866011140603, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749866011141672, "dur":156754, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749866010918118, "dur":288, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749866010918406, "dur":3688, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749866010922095, "dur":281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1749866010922378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749866010965924, "dur":2330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1749866010968283, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1749866010968320, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749866010968324, "dur":36994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1749866011005348, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1749866011005377, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749866011005381, "dur":96938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1749866011102347, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1749866011102376, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749866011102379, "dur":23310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1749866011125712, "dur":172693, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749866010918146, "dur":268, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749866010918414, "dur":3692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749866010922106, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1749866010922304, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749866010928410, "dur":4338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1749866010932767, "dur":326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol.exe" }}
+,{ "pid":12345, "tid":3, "ts":1749866010933096, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749866010933099, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol.exe" }}
+,{ "pid":12345, "tid":3, "ts":1749866010933909, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1749866010934010, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749866010934188, "dur":19473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1749866010953699, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749866010953725, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749866010953728, "dur":73529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749866011027285, "dur":99974, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749866011127262, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749866011127266, "dur":7975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749866011135263, "dur":163152, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010918277, "dur":168, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010918445, "dur":3648, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010922094, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1749866010922322, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010935650, "dur":2186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1749866010937857, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010937886, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010937890, "dur":1764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010939669, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010939692, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010939694, "dur":560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010940271, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010940303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010940306, "dur":621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010940944, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010940966, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010940968, "dur":796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010941786, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010941812, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010941816, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010942880, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010942908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010942912, "dur":8739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010951675, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010951703, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010951707, "dur":6053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010957829, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010957903, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010957908, "dur":2984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010960916, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010960961, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010960964, "dur":7955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010968941, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866010968966, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866010968970, "dur":39287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866011008280, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866011008331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866011008336, "dur":48378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866011056745, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866011056771, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866011056775, "dur":3389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866011060189, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866011060212, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866011060216, "dur":2884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866011063122, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866011063146, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866011063149, "dur":40357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749866011103531, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1749866011103557, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749866011103560, "dur":21316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1749866011124900, "dur":173540, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866010918195, "dur":232, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866010918427, "dur":3676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866010922103, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1749866010922364, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866010949857, "dur":3742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1749866010953625, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866010953658, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866010953662, "dur":6484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866010960173, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866010960201, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866010960205, "dur":6254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866010966484, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866010966510, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866010966513, "dur":50279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011016819, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011016846, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866011016851, "dur":39086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011055974, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011056024, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866011056028, "dur":3040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011059091, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011059116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866011059120, "dur":1804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011060950, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011060995, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866011060999, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011062681, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011062718, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866011062721, "dur":2628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011065372, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011065398, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866011065401, "dur":33263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749866011100823, "dur":446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1749866011101272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749866011101275, "dur":22145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1749866011123464, "dur":174913, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749866010918184, "dur":237, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749866010918421, "dur":3680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749866010922102, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1749866010922325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749866010935881, "dur":5790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1749866010941696, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749866010941722, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749866010941726, "dur":1087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749866010942838, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749866010942874, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749866010942877, "dur":8634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749866010951536, "dur":175628, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749866011127167, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749866011127174, "dur":6966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749866011134163, "dur":164238, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010918111, "dur":287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010918403, "dur":3681, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010922089, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1749866010922099, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010922674, "dur":243, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1749866010922919, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1749866010922950, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010923155, "dur":1670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1749866010924826, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1749866010924875, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010924951, "dur":926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1749866010925893, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010925958, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010926062, "dur":4733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010930814, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":7, "ts":1749866010930890, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010930893, "dur":11055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":7, "ts":1749866010941978, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010942004, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010942007, "dur":1101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010943133, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010943159, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010943162, "dur":9858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010953047, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010953076, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010953079, "dur":5881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010958986, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010959016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010959020, "dur":3195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010962233, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866010962256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866010962260, "dur":44729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866011007013, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866011007037, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866011007041, "dur":14875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866011021949, "dur":105703, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866011127684, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749866011127689, "dur":8540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749866011136252, "dur":162136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749866010918234, "dur":205, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749866010918439, "dur":3653, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749866010922093, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1749866010922353, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749866010949272, "dur":4887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1749866010954184, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749866010954210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749866010954214, "dur":13263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749866010967504, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749866010967533, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749866010967537, "dur":34748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749866011002309, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749866011002335, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749866011002340, "dur":19806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749866011022170, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749866011022197, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749866011022204, "dur":80164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749866011102393, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1749866011102428, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749866011102451, "dur":28686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1749866011131170, "dur":167247, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749866010918305, "dur":147, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749866010918452, "dur":3652, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749866010922105, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1749866010922355, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749866010949499, "dur":4783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1749866010954315, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749866010954349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749866010954353, "dur":5728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749866010960107, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749866010960151, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749866010960155, "dur":8437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749866010968617, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749866010968653, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749866010968657, "dur":48580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749866011017263, "dur":114332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749866011131599, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749866011131606, "dur":4747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749866011136378, "dur":162064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749866010918343, "dur":115, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749866010918458, "dur":3647, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749866010922105, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1749866010922351, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749866010949266, "dur":4402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1749866010953695, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1749866010953724, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749866010953727, "dur":81315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1749866011035072, "dur":261058, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1749866011296138, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749866011296149, "dur":2097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1749866011298291, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":10, "ts":1749866011298294, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866010918378, "dur":86, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866010918464, "dur":3634, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866010922100, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1749866010922330, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866010942129, "dur":4311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1749866010946468, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866010946496, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866010946500, "dur":5834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866010952357, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866010952383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866010952387, "dur":12658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866010965650, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866010965703, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866010965707, "dur":5257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866010970986, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866010971010, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866010971034, "dur":95368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866011066427, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866011066453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866011066457, "dur":36016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749866011102510, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1749866011102535, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749866011102538, "dur":25156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1749866011127783, "dur":170603, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866010918414, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866010918415, "dur":3685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866010922101, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1749866010922376, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866010950807, "dur":3588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1749866010954421, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866010954453, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866010954456, "dur":5345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866010959827, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866010959891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866010959896, "dur":3759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866010963680, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866010963709, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866010963713, "dur":6424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866010970159, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866010970185, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866010970188, "dur":45830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011016051, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011016079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866011016085, "dur":42466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011058573, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011058598, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866011058602, "dur":3866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011062501, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011062527, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866011062531, "dur":1591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011064143, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011064169, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866011064172, "dur":1004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011065198, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011065227, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866011065247, "dur":1287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011066557, "dur":135304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011201867, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749866011201873, "dur":785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749866011202677, "dur":95760, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866010918459, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866010918459, "dur":3630, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866010922092, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1749866010922357, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866010950195, "dur":4118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1749866010954340, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749866010954370, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866010954373, "dur":11195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749866010965596, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749866010965620, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866010965624, "dur":6521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749866010972175, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749866010972204, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866010972208, "dur":89074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749866011061314, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749866011061347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866011061351, "dur":5253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749866011066624, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":13, "ts":1749866011066649, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866011066709, "dur":648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":13, "ts":1749866011067377, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":13, "ts":1749866011067401, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866011067404, "dur":27050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":13, "ts":1749866011094487, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":13, "ts":1749866011094514, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866011094520, "dur":919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":13, "ts":1749866011095465, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1749866011095489, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866011095492, "dur":3705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1749866011099222, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1749866011099316, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866011099321, "dur":699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1749866011100042, "dur":11207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":13, "ts":1749866011111255, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749866011111262, "dur":13892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":13, "ts":1749866011125176, "dur":173244, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866010918484, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866010918485, "dur":3617, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866010922106, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1749866010922333, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866010942428, "dur":4732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1749866010947187, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866010947221, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866010947225, "dur":5226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866010952474, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866010952495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866010952498, "dur":5743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866010958264, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866010958294, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866010958298, "dur":2959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866010961285, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866010961318, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866010961322, "dur":43987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866011005338, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866011005367, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866011005374, "dur":51555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866011056964, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866011056991, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866011056995, "dur":3896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866011060915, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866011060941, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866011060945, "dur":6912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749866011067887, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1749866011067912, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866011067915, "dur":26816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1749866011094751, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":14, "ts":1749866011094792, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866011094796, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":14, "ts":1749866011095626, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":14, "ts":1749866011095650, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866011095653, "dur":5490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":14, "ts":1749866011101179, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/level1.resS" }}
+,{ "pid":12345, "tid":14, "ts":1749866011101205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749866011101208, "dur":11671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/level1.resS" }}
+,{ "pid":12345, "tid":14, "ts":1749866011112908, "dur":185471, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010918512, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010918512, "dur":3599, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010922111, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1749866010922319, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010928608, "dur":5446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1749866010934076, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010934098, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010934268, "dur":713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010934999, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010935017, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010935052, "dur":527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010935596, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010935622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010935625, "dur":3844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010939485, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010939503, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010939506, "dur":559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010940079, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010940097, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010940100, "dur":661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010940782, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010940809, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010940813, "dur":642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010941471, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010941494, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010941496, "dur":1018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010942540, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010942586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010942590, "dur":8519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010951138, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010951168, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010951172, "dur":6579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010957779, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010957808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010957837, "dur":9636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010967504, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010967536, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010967539, "dur":4780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010972341, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866010972363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866010972367, "dur":83550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011055952, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011055982, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866011055988, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011057883, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011057906, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866011057909, "dur":4601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011062533, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011062564, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866011062567, "dur":2554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011065162, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011065190, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866011065194, "dur":955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011066171, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011066194, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866011066197, "dur":38762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749866011104984, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1749866011105009, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749866011105013, "dur":20836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1749866011125872, "dur":172539, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866010918544, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866010918544, "dur":3563, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866010922110, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1749866010922309, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866010923864, "dur":1445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1749866010925334, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1749866010925412, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866010925416, "dur":2031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1749866010927469, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749866010927544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866010927547, "dur":37640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749866010965219, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749866010965251, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866010965256, "dur":35695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749866011000976, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749866011001035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866011001042, "dur":100011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749866011101096, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1749866011101122, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866011101127, "dur":4994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1749866011106148, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles JuegoEjecutable/Furbol_Data/boot.config" }}
+,{ "pid":12345, "tid":16, "ts":1749866011106375, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749866011106380, "dur":24989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"JuegoEjecutable/Furbol_Data/boot.config" }}
+,{ "pid":12345, "tid":16, "ts":1749866011131398, "dur":167016, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749866011302140, "dur":1372, "ph":"X", "name": "ProfilerWriteOutput" }
+,
